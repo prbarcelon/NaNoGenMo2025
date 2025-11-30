@@ -1,0 +1,3247 @@
+[
+    {
+        "word": "#NUMBER#",
+        "stem": "#NUMBER#",
+        "lemma": "#NUMBER#",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "absolute",
+        "stem": "absolut",
+        "lemma": "absolute",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "abyssal",
+        "stem": "abyss",
+        "lemma": "abyssal",
+        "tags": {
+            "alignment": [
+                "Demonic"
+            ],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "adamantine",
+        "stem": "adamantin",
+        "lemma": "adamantine",
+        "tags": {
+            "alignment": [],
+            "element": [
+                "Metal"
+            ],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "adaptive",
+        "stem": "adapt",
+        "lemma": "adaptive",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "advanced",
+        "stem": "advanc",
+        "lemma": "advanced",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "ancient",
+        "stem": "ancient",
+        "lemma": "ancient",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "apex",
+        "stem": "apex",
+        "lemma": "apex",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "aquatic",
+        "stem": "aquat",
+        "lemma": "aquatic",
+        "tags": {
+            "alignment": [],
+            "element": [
+                "Water"
+            ],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "arching",
+        "stem": "arch",
+        "lemma": "arching",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "ascending",
+        "stem": "ascend",
+        "lemma": "ascending",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "astral",
+        "stem": "astral",
+        "lemma": "astral",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "augmented",
+        "stem": "augment",
+        "lemma": "augmented",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "aureate",
+        "stem": "aureat",
+        "lemma": "aureate",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "azure",
+        "stem": "azur",
+        "lemma": "azure",
+        "tags": {
+            "alignment": [],
+            "element": [
+                "Wood"
+            ],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "balanced",
+        "stem": "balanc",
+        "lemma": "balanced",
+        "tags": {
+            "alignment": [],
+            "element": [
+                "Metal"
+            ],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "basic",
+        "stem": "basic",
+        "lemma": "basic",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "big",
+        "stem": "big",
+        "lemma": "big",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "birthless",
+        "stem": "birthless",
+        "lemma": "birthless",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "black",
+        "stem": "black",
+        "lemma": "black",
+        "tags": {
+            "alignment": [],
+            "element": [
+                "Water"
+            ],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "blazing",
+        "stem": "blaze",
+        "lemma": "blazing",
+        "tags": {
+            "alignment": [],
+            "element": [
+                "Fire"
+            ],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "blessed",
+        "stem": "bless",
+        "lemma": "blessed",
+        "tags": {
+            "alignment": [
+                "Righteous"
+            ],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "bloodstained",
+        "stem": "bloodstain",
+        "lemma": "bloodstained",
+        "tags": {
+            "alignment": [
+                "Demonic"
+            ],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "bloodthristy",
+        "stem": "bloodthristi",
+        "lemma": "bloodthristy",
+        "tags": {
+            "alignment": [
+                "Demonic"
+            ],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "bloody",
+        "stem": "bloodi",
+        "lemma": "bloody",
+        "tags": {
+            "alignment": [
+                "Demonic"
+            ],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "blooming",
+        "stem": "bloom",
+        "lemma": "blooming",
+        "tags": {
+            "alignment": [],
+            "element": [
+                "Wood"
+            ],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "boundless",
+        "stem": "boundless",
+        "lemma": "boundless",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "boxing",
+        "stem": "box",
+        "lemma": "boxing",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "bright",
+        "stem": "bright",
+        "lemma": "bright",
+        "tags": {
+            "alignment": [
+                "Righteous"
+            ],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "brilliant",
+        "stem": "brilliant",
+        "lemma": "brilliant",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "bronze",
+        "stem": "bronz",
+        "lemma": "bronze",
+        "tags": {
+            "alignment": [],
+            "element": [
+                "Metal"
+            ],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "buddhist",
+        "stem": "buddhist",
+        "lemma": "buddhist",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "burning",
+        "stem": "burn",
+        "lemma": "burning",
+        "tags": {
+            "alignment": [],
+            "element": [
+                "Fire"
+            ],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "calm",
+        "stem": "calm",
+        "lemma": "calm",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "capped",
+        "stem": "cap",
+        "lemma": "capped",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "cardinal",
+        "stem": "cardin",
+        "lemma": "cardinal",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "cawing",
+        "stem": "caw",
+        "lemma": "cawing",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "celestial",
+        "stem": "celesti",
+        "lemma": "celestial",
+        "tags": {
+            "alignment": [
+                "Righteous"
+            ],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "center",
+        "stem": "center",
+        "lemma": "center",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "chaotic",
+        "stem": "chaotic",
+        "lemma": "chaotic",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "charging",
+        "stem": "charg",
+        "lemma": "charging",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "coastal",
+        "stem": "coastal",
+        "lemma": "coastal",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "coated",
+        "stem": "coat",
+        "lemma": "coated",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "cold",
+        "stem": "cold",
+        "lemma": "cold",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "consecutive",
+        "stem": "consecut",
+        "lemma": "consecutive",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "consuming",
+        "stem": "consum",
+        "lemma": "consuming",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "continuous",
+        "stem": "continu",
+        "lemma": "continuous",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "copper",
+        "stem": "copper",
+        "lemma": "copper",
+        "tags": {
+            "alignment": [],
+            "element": [
+                "Metal"
+            ],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "coral",
+        "stem": "coral",
+        "lemma": "coral",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "corrupted",
+        "stem": "corrupt",
+        "lemma": "corrupted",
+        "tags": {
+            "alignment": [
+                "Demonic"
+            ],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "corvid",
+        "stem": "corvid",
+        "lemma": "corvid",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "cosmic",
+        "stem": "cosmic",
+        "lemma": "cosmic",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "countless",
+        "stem": "countless",
+        "lemma": "countless",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "crazy",
+        "stem": "crazi",
+        "lemma": "crazy",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "crimson",
+        "stem": "crimson",
+        "lemma": "crimson",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "crossing",
+        "stem": "cross",
+        "lemma": "crossing",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "crystalline",
+        "stem": "crystallin",
+        "lemma": "crystalline",
+        "tags": {
+            "alignment": [],
+            "element": [
+                "Water"
+            ],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "current",
+        "stem": "current",
+        "lemma": "current",
+        "tags": {
+            "alignment": [],
+            "element": [
+                "Water"
+            ],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "cursed",
+        "stem": "curs",
+        "lemma": "cursed",
+        "tags": {
+            "alignment": [
+                "Demonic"
+            ],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "cutting",
+        "stem": "cut",
+        "lemma": "cutting",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": [
+                "Offensive"
+            ]
+        }
+    },
+    {
+        "word": "dancing",
+        "stem": "danc",
+        "lemma": "dancing",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "dark",
+        "stem": "dark",
+        "lemma": "dark",
+        "tags": {
+            "alignment": [
+                "Demonic"
+            ],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "deep",
+        "stem": "deep",
+        "lemma": "deep",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "defensive",
+        "stem": "defens",
+        "lemma": "defensive",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": [
+                "Defensive"
+            ]
+        }
+    },
+    {
+        "word": "demonic",
+        "stem": "demon",
+        "lemma": "demonic",
+        "tags": {
+            "alignment": [
+                "Demonic"
+            ],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "descending",
+        "stem": "descend",
+        "lemma": "descending",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "destructive",
+        "stem": "destruct",
+        "lemma": "destructive",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": [
+                "Offensive"
+            ]
+        }
+    },
+    {
+        "word": "devastating",
+        "stem": "devast",
+        "lemma": "devastating",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": [
+                "Offensive"
+            ]
+        }
+    },
+    {
+        "word": "devouring",
+        "stem": "devour",
+        "lemma": "devouring",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": [
+                "Offensive"
+            ]
+        }
+    },
+    {
+        "word": "dirty",
+        "stem": "dirti",
+        "lemma": "dirty",
+        "tags": {
+            "alignment": [
+                "Demonic"
+            ],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "dividing",
+        "stem": "divid",
+        "lemma": "dividing",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "divine",
+        "stem": "divin",
+        "lemma": "divine",
+        "tags": {
+            "alignment": [],
+            "element": [
+                "Wood"
+            ],
+            "mastery": [
+                "Divine"
+            ],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "diving",
+        "stem": "dive",
+        "lemma": "diving",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "dominating",
+        "stem": "domin",
+        "lemma": "dominating",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "double",
+        "stem": "doubl",
+        "lemma": "double",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "downward",
+        "stem": "downward",
+        "lemma": "downward",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "drunken",
+        "stem": "drunken",
+        "lemma": "drunken",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "dual",
+        "stem": "dual",
+        "lemma": "dual",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "earthen",
+        "stem": "earthen",
+        "lemma": "earthen",
+        "tags": {
+            "alignment": [],
+            "element": [
+                "Earth"
+            ],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "earthly",
+        "stem": "earthli",
+        "lemma": "earthly",
+        "tags": {
+            "alignment": [],
+            "element": [
+                "Earth"
+            ],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "eastern",
+        "stem": "eastern",
+        "lemma": "eastern",
+        "tags": {
+            "alignment": [],
+            "element": [
+                "Wood"
+            ],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "elegant",
+        "stem": "eleg",
+        "lemma": "elegant",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "elemental",
+        "stem": "element",
+        "lemma": "elemental",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "elusive",
+        "stem": "elus",
+        "lemma": "elusive",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": [
+                "Evasive"
+            ]
+        }
+    },
+    {
+        "word": "embracing",
+        "stem": "embrac",
+        "lemma": "embracing",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "emerald",
+        "stem": "emerald",
+        "lemma": "emerald",
+        "tags": {
+            "alignment": [],
+            "element": [
+                "Wood"
+            ],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "empty",
+        "stem": "empti",
+        "lemma": "empty",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "encompassing",
+        "stem": "encompass",
+        "lemma": "encompassing",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "endless",
+        "stem": "endless",
+        "lemma": "endless",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "enlightened",
+        "stem": "enlighten",
+        "lemma": "enlightened",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "equal",
+        "stem": "equal",
+        "lemma": "equal",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "equine",
+        "stem": "equin",
+        "lemma": "equine",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "erupting",
+        "stem": "erupt",
+        "lemma": "erupting",
+        "tags": {
+            "alignment": [],
+            "element": [
+                "Fire"
+            ],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "eternal",
+        "stem": "etern",
+        "lemma": "eternal",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [
+                "Divine"
+            ],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "ethereal",
+        "stem": "ether",
+        "lemma": "ethereal",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "evil",
+        "stem": "evil",
+        "lemma": "evil",
+        "tags": {
+            "alignment": [
+                "Demonic"
+            ],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "expansive",
+        "stem": "expans",
+        "lemma": "expansive",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "exploding",
+        "stem": "explod",
+        "lemma": "exploding",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": [
+                "Offensive"
+            ]
+        }
+    },
+    {
+        "word": "extended",
+        "stem": "extend",
+        "lemma": "extended",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "extinguishing",
+        "stem": "extinguish",
+        "lemma": "extinguishing",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "extra",
+        "stem": "extra",
+        "lemma": "extra",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "extreme",
+        "stem": "extrem",
+        "lemma": "extreme",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "facing",
+        "stem": "face",
+        "lemma": "facing",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "fading",
+        "stem": "fade",
+        "lemma": "fading",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "fatal",
+        "stem": "fatal",
+        "lemma": "fatal",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "featherweight",
+        "stem": "featherweight",
+        "lemma": "featherweight",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "felling",
+        "stem": "fell",
+        "lemma": "felling",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "feral",
+        "stem": "feral",
+        "lemma": "feral",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "fertile",
+        "stem": "fertil",
+        "lemma": "fertile",
+        "tags": {
+            "alignment": [],
+            "element": [
+                "Earth"
+            ],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "few",
+        "stem": "few",
+        "lemma": "few",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "fiendish",
+        "stem": "fiendish",
+        "lemma": "fiendish",
+        "tags": {
+            "alignment": [
+                "Demonic"
+            ],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "fiery",
+        "stem": "fieri",
+        "lemma": "fiery",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "final",
+        "stem": "final",
+        "lemma": "final",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "finishing",
+        "stem": "finish",
+        "lemma": "finishing",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "fleeting",
+        "stem": "fleet",
+        "lemma": "fleeting",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": [
+                "Evasive"
+            ]
+        }
+    },
+    {
+        "word": "flying",
+        "stem": "fli",
+        "lemma": "flying",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": [
+                "Evasive"
+            ]
+        }
+    },
+    {
+        "word": "forged",
+        "stem": "forg",
+        "lemma": "forged",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "formless",
+        "stem": "formless",
+        "lemma": "formless",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "foundational",
+        "stem": "foundat",
+        "lemma": "foundational",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "foxform",
+        "stem": "foxform",
+        "lemma": "foxform",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "frosty",
+        "stem": "frosti",
+        "lemma": "frosty",
+        "tags": {
+            "alignment": [],
+            "element": [
+                "Water"
+            ],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "frozen",
+        "stem": "frozen",
+        "lemma": "frozen",
+        "tags": {
+            "alignment": [],
+            "element": [
+                "Water"
+            ],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "full",
+        "stem": "full",
+        "lemma": "full",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "gallant",
+        "stem": "gallant",
+        "lemma": "gallant",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "gem",
+        "stem": "gem",
+        "lemma": "gem",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "gentle",
+        "stem": "gentl",
+        "lemma": "gentle",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "ghostly",
+        "stem": "ghostli",
+        "lemma": "ghostly",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "giant",
+        "stem": "giant",
+        "lemma": "giant",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "glacial",
+        "stem": "glacial",
+        "lemma": "glacial",
+        "tags": {
+            "alignment": [],
+            "element": [
+                "Water"
+            ],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "golden",
+        "stem": "golden",
+        "lemma": "golden",
+        "tags": {
+            "alignment": [],
+            "element": [
+                "Metal"
+            ],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "governing",
+        "stem": "govern",
+        "lemma": "governing",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "graceful",
+        "stem": "grace",
+        "lemma": "graceful",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "grafting",
+        "stem": "graft",
+        "lemma": "grafting",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "grand",
+        "stem": "grand",
+        "lemma": "grand",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "grappling",
+        "stem": "grappl",
+        "lemma": "grappling",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "great",
+        "stem": "great",
+        "lemma": "great",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "grounded",
+        "stem": "ground",
+        "lemma": "grounded",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "harmonious",
+        "stem": "harmoni",
+        "lemma": "harmonious",
+        "tags": {
+            "alignment": [
+                "Righteous"
+            ],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "healing",
+        "stem": "heal",
+        "lemma": "healing",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "heartless",
+        "stem": "heartless",
+        "lemma": "heartless",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "heavenly",
+        "stem": "heavenli",
+        "lemma": "heavenly",
+        "tags": {
+            "alignment": [
+                "Righteous"
+            ],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "hellish",
+        "stem": "hellish",
+        "lemma": "hellish",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "hidden",
+        "stem": "hidden",
+        "lemma": "hidden",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "holy",
+        "stem": "holi",
+        "lemma": "holy",
+        "tags": {
+            "alignment": [
+                "Righteous"
+            ],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "icy",
+        "stem": "ici",
+        "lemma": "icy",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "illuminating",
+        "stem": "illumin",
+        "lemma": "illuminating",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "illusory",
+        "stem": "illusori",
+        "lemma": "illusory",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "immortal",
+        "stem": "immort",
+        "lemma": "immortal",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [
+                "Divine"
+            ],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "imperial",
+        "stem": "imperi",
+        "lemma": "imperial",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "indestructible",
+        "stem": "indestruct",
+        "lemma": "indestructible",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "infernal",
+        "stem": "infern",
+        "lemma": "infernal",
+        "tags": {
+            "alignment": [
+                "Demonic"
+            ],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "infinite",
+        "stem": "infinit",
+        "lemma": "infinite",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "intoxicated",
+        "stem": "intox",
+        "lemma": "intoxicated",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "invisible",
+        "stem": "invis",
+        "lemma": "invisible",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "iron",
+        "stem": "iron",
+        "lemma": "iron",
+        "tags": {
+            "alignment": [],
+            "element": [
+                "Metal"
+            ],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "jade",
+        "stem": "jade",
+        "lemma": "jade",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "killing",
+        "stem": "kill",
+        "lemma": "killing",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": [
+                "Offensive"
+            ]
+        }
+    },
+    {
+        "word": "legged",
+        "stem": "leg",
+        "lemma": "legged",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "liberated",
+        "stem": "liber",
+        "lemma": "liberated",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "limitless",
+        "stem": "limitless",
+        "lemma": "limitless",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "living",
+        "stem": "live",
+        "lemma": "living",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "lower",
+        "stem": "lower",
+        "lemma": "low",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "luminous",
+        "stem": "lumin",
+        "lemma": "luminous",
+        "tags": {
+            "alignment": [
+                "Righteous"
+            ],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "lunar",
+        "stem": "lunar",
+        "lemma": "lunar",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "mad",
+        "stem": "mad",
+        "lemma": "mad",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "magnanimous",
+        "stem": "magnanim",
+        "lemma": "magnanimous",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "malevolent",
+        "stem": "malevol",
+        "lemma": "malevolent",
+        "tags": {
+            "alignment": [
+                "Demonic"
+            ],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "many",
+        "stem": "mani",
+        "lemma": "many",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "martial",
+        "stem": "martial",
+        "lemma": "martial",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "merciful",
+        "stem": "merci",
+        "lemma": "merciful",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "metallic",
+        "stem": "metal",
+        "lemma": "metallic",
+        "tags": {
+            "alignment": [],
+            "element": [
+                "Metal"
+            ],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "midsummer",
+        "stem": "midsumm",
+        "lemma": "midsummer",
+        "tags": {
+            "alignment": [],
+            "element": [
+                "Fire"
+            ],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "mighty",
+        "stem": "mighti",
+        "lemma": "mighty",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "mirage",
+        "stem": "mirag",
+        "lemma": "mirage",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "moonlit",
+        "stem": "moonlit",
+        "lemma": "moonlit",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "mysterious",
+        "stem": "mysteri",
+        "lemma": "mysterious",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "mystic",
+        "stem": "mystic",
+        "lemma": "mystic",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "nefarious",
+        "stem": "nefari",
+        "lemma": "nefarious",
+        "tags": {
+            "alignment": [
+                "Demonic"
+            ],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "north",
+        "stem": "north",
+        "lemma": "north",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "northern",
+        "stem": "northern",
+        "lemma": "northern",
+        "tags": {
+            "alignment": [],
+            "element": [
+                "Water"
+            ],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "obscure",
+        "stem": "obscur",
+        "lemma": "obscure",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "obsidian",
+        "stem": "obsidian",
+        "lemma": "obsidian",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "old",
+        "stem": "old",
+        "lemma": "old",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "onyx",
+        "stem": "onyx",
+        "lemma": "onyx",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "outward",
+        "stem": "outward",
+        "lemma": "outward",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "parallel",
+        "stem": "parallel",
+        "lemma": "parallel",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "penetrating",
+        "stem": "penetr",
+        "lemma": "penetrating",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": [
+                "Offensive"
+            ]
+        }
+    },
+    {
+        "word": "perfect",
+        "stem": "perfect",
+        "lemma": "perfect",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "petal",
+        "stem": "petal",
+        "lemma": "petal",
+        "tags": {
+            "alignment": [],
+            "element": [
+                "Wood"
+            ],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "poisonous",
+        "stem": "poison",
+        "lemma": "poisonous",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "primordial",
+        "stem": "primordi",
+        "lemma": "primordial",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [
+                "Divine"
+            ],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "profound",
+        "stem": "profound",
+        "lemma": "profound",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "protective",
+        "stem": "protect",
+        "lemma": "protective",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "pure",
+        "stem": "pure",
+        "lemma": "pure",
+        "tags": {
+            "alignment": [
+                "Righteous"
+            ],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "quick",
+        "stem": "quick",
+        "lemma": "quick",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "radiant",
+        "stem": "radiant",
+        "lemma": "radiant",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "ravenous",
+        "stem": "raven",
+        "lemma": "ravenous",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "rebounding",
+        "stem": "rebound",
+        "lemma": "rebounding",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "red",
+        "stem": "red",
+        "lemma": "red",
+        "tags": {
+            "alignment": [],
+            "element": [
+                "Fire"
+            ],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "repelling",
+        "stem": "repel",
+        "lemma": "repelling",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "repentant",
+        "stem": "repent",
+        "lemma": "repentant",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "responsive",
+        "stem": "respons",
+        "lemma": "responsive",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "riding",
+        "stem": "ride",
+        "lemma": "riding",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "righteous",
+        "stem": "righteou",
+        "lemma": "righteous",
+        "tags": {
+            "alignment": [
+                "Righteous"
+            ],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "rightful",
+        "stem": "right",
+        "lemma": "rightful",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "ripping",
+        "stem": "rip",
+        "lemma": "ripping",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": [
+                "Offensive"
+            ]
+        }
+    },
+    {
+        "word": "rising",
+        "stem": "rise",
+        "lemma": "rising",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "rolling",
+        "stem": "roll",
+        "lemma": "rolling",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "roving",
+        "stem": "rove",
+        "lemma": "roving",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "sacred",
+        "stem": "sacr",
+        "lemma": "sacred",
+        "tags": {
+            "alignment": [
+                "Righteous"
+            ],
+            "element": [
+                "Fire"
+            ],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "saving",
+        "stem": "save",
+        "lemma": "saving",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "sealing",
+        "stem": "seal",
+        "lemma": "sealing",
+        "tags": {
+            "alignment": [],
+            "element": [
+                "Water"
+            ],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "secret",
+        "stem": "secret",
+        "lemma": "secret",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "serene",
+        "stem": "seren",
+        "lemma": "serene",
+        "tags": {
+            "alignment": [
+                "Righteous"
+            ],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "shadow",
+        "stem": "shadow",
+        "lemma": "shadow",
+        "tags": {
+            "alignment": [
+                "Demonic"
+            ],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "shattering",
+        "stem": "shatter",
+        "lemma": "shattering",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": [
+                "Offensive"
+            ]
+        }
+    },
+    {
+        "word": "shooting",
+        "stem": "shoot",
+        "lemma": "shooting",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": [
+                "Offensive"
+            ]
+        }
+    },
+    {
+        "word": "silver",
+        "stem": "silver",
+        "lemma": "silver",
+        "tags": {
+            "alignment": [],
+            "element": [
+                "Metal"
+            ],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "single",
+        "stem": "singl",
+        "lemma": "single",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "skeletal",
+        "stem": "skelet",
+        "lemma": "skeletal",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "slicing",
+        "stem": "slice",
+        "lemma": "slicing",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": [
+                "Offensive"
+            ]
+        }
+    },
+    {
+        "word": "smashing",
+        "stem": "smash",
+        "lemma": "smashing",
+        "tags": {
+            "alignment": [],
+            "element": [
+                "Fire"
+            ],
+            "mastery": [],
+            "skill_type": [
+                "Offensive"
+            ]
+        }
+    },
+    {
+        "word": "snow",
+        "stem": "snow",
+        "lemma": "snow",
+        "tags": {
+            "alignment": [],
+            "element": [
+                "Water"
+            ],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "soaring",
+        "stem": "soar",
+        "lemma": "soaring",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "solar",
+        "stem": "solar",
+        "lemma": "solar",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "sonic",
+        "stem": "sonic",
+        "lemma": "sonic",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "southern",
+        "stem": "southern",
+        "lemma": "southern",
+        "tags": {
+            "alignment": [],
+            "element": [
+                "Fire"
+            ],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "spanning",
+        "stem": "span",
+        "lemma": "spanning",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "spectral",
+        "stem": "spectral",
+        "lemma": "spectral",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "spinning",
+        "stem": "spin",
+        "lemma": "spinning",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "spiraling",
+        "stem": "spiral",
+        "lemma": "spiraling",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "spirit",
+        "stem": "spirit",
+        "lemma": "spirit",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "spiritual",
+        "stem": "spiritu",
+        "lemma": "spiritual",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "splitting",
+        "stem": "split",
+        "lemma": "splitting",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": [
+                "Offensive"
+            ]
+        }
+    },
+    {
+        "word": "stellar",
+        "stem": "stellar",
+        "lemma": "stellar",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "striking",
+        "stem": "strike",
+        "lemma": "striking",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": [
+                "Offensive"
+            ]
+        }
+    },
+    {
+        "word": "stunning",
+        "stem": "stun",
+        "lemma": "stunning",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "subduing",
+        "stem": "subdu",
+        "lemma": "subduing",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": [
+                "Offensive"
+            ]
+        }
+    },
+    {
+        "word": "sudden",
+        "stem": "sudden",
+        "lemma": "sudden",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "sweeping",
+        "stem": "sweep",
+        "lemma": "sweeping",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": [
+                "Offensive"
+            ]
+        }
+    },
+    {
+        "word": "tearing",
+        "stem": "tear",
+        "lemma": "tearing",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": [
+                "Offensive"
+            ]
+        }
+    },
+    {
+        "word": "throwing",
+        "stem": "throw",
+        "lemma": "throwing",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": [
+                "Offensive"
+            ]
+        }
+    },
+    {
+        "word": "thunderous",
+        "stem": "thunder",
+        "lemma": "thunderous",
+        "tags": {
+            "alignment": [],
+            "element": [
+                "Fire"
+            ],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "tidal",
+        "stem": "tidal",
+        "lemma": "tidal",
+        "tags": {
+            "alignment": [],
+            "element": [
+                "Water"
+            ],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "toxic",
+        "stem": "toxic",
+        "lemma": "toxic",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "traceless",
+        "stem": "traceless",
+        "lemma": "traceless",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "traditional",
+        "stem": "tradit",
+        "lemma": "traditional",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "traversing",
+        "stem": "travers",
+        "lemma": "traversing",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "treading",
+        "stem": "tread",
+        "lemma": "treading",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": [
+                "Evasive"
+            ]
+        }
+    },
+    {
+        "word": "true",
+        "stem": "true",
+        "lemma": "true",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "twin",
+        "stem": "twin",
+        "lemma": "twin",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "ultimate",
+        "stem": "ultim",
+        "lemma": "ultimate",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [
+                "Divine"
+            ],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "undivinable",
+        "stem": "undivin",
+        "lemma": "undivinable",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "unforgiving",
+        "stem": "unforgiv",
+        "lemma": "unforgiving",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "unified",
+        "stem": "unifi",
+        "lemma": "unified",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "universal",
+        "stem": "univers",
+        "lemma": "universal",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "unknowable",
+        "stem": "unknow",
+        "lemma": "unknowable",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "unmatched",
+        "stem": "unmatch",
+        "lemma": "unmatched",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "unparalleled",
+        "stem": "unparallel",
+        "lemma": "unparalleled",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "unrivaled",
+        "stem": "unriv",
+        "lemma": "unrivaled",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "unshakable",
+        "stem": "unshak",
+        "lemma": "unshakable",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "venomous",
+        "stem": "venom",
+        "lemma": "venomous",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "vermillion",
+        "stem": "vermillion",
+        "lemma": "vermillion",
+        "tags": {
+            "alignment": [],
+            "element": [
+                "Fire"
+            ],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "vile",
+        "stem": "vile",
+        "lemma": "vile",
+        "tags": {
+            "alignment": [
+                "Demonic"
+            ],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "violent",
+        "stem": "violent",
+        "lemma": "violent",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "virtuous",
+        "stem": "virtuou",
+        "lemma": "virtuous",
+        "tags": {
+            "alignment": [
+                "Righteous"
+            ],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "void",
+        "stem": "void",
+        "lemma": "void",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "wandering",
+        "stem": "wander",
+        "lemma": "wandering",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "waning",
+        "stem": "wane",
+        "lemma": "waning",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "waxing",
+        "stem": "wax",
+        "lemma": "waxing",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "western",
+        "stem": "western",
+        "lemma": "western",
+        "tags": {
+            "alignment": [],
+            "element": [
+                "Metal"
+            ],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "whirling",
+        "stem": "whirl",
+        "lemma": "whirling",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "white",
+        "stem": "white",
+        "lemma": "white",
+        "tags": {
+            "alignment": [],
+            "element": [
+                "Metal"
+            ],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "wicked",
+        "stem": "wick",
+        "lemma": "wicked",
+        "tags": {
+            "alignment": [
+                "Demonic"
+            ],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "wild",
+        "stem": "wild",
+        "lemma": "wild",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "wounding",
+        "stem": "wound",
+        "lemma": "wounding",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": [
+                "Offensive"
+            ]
+        }
+    },
+    {
+        "word": "yellow",
+        "stem": "yellow",
+        "lemma": "yellow",
+        "tags": {
+            "alignment": [],
+            "element": [
+                "Earth"
+            ],
+            "mastery": [],
+            "skill_type": []
+        }
+    }
+]

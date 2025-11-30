@@ -1,0 +1,39 @@
+{
+  "Arts": [
+    "[Adj] [Noun] Arts",
+    "[Adj] [Noun] Arts",
+    "[Adj] [Noun] Arts",
+    "[Adj] [Adj] [Noun] Arts",
+    "[Adj] [Adj] [Adj] [Noun] Arts"
+  ],
+  "Style": [
+    "[Adj] [Noun] Style",
+    "[Adj] [Noun] Style",
+    "[Adj] [Noun] Style",
+    "[Adj] [Adj] [Noun] Style",
+    "[Noun] Style",
+    "[Adj] [Adj] [Adj] Style"
+  ],
+  "Form": [
+    "[Adj] [Noun] Form",
+    "[Adj] [Noun] Form",
+    "[Adj] [Noun] Form",
+    "[Adj] [Adj] [Noun] Form",
+    "[Noun] Form"
+  ],
+  "Technique": [
+    "[Noun] [Verb] [Noun]",
+    "[Adj] [Noun]",
+    "[Adj] [Noun] [Verb] [Noun]",
+    "[Noun]",
+    "[Noun] of [Noun]",
+    "[Noun] of the [Noun]",
+    "[Noun] of the [Adj] [Noun]",
+    "[Noun]-[Verb] [Adj] [Noun]",
+    "Dual-[Noun] [Verb] [Noun]",
+    "Triple [Noun] [Verb] [Noun]",
+    "Five-Fold [Noun] [Verb] [Noun]",
+    "Six [Verb] [Noun]",
+    "Giant [Noun]-[Verb] [Noun]"
+  ]
+}

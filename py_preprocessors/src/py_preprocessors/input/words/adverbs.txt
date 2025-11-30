@@ -1,0 +1,6 @@
+all
+continuously
+immediately
+only
+simultaneously
+suddenly

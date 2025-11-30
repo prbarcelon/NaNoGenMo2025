@@ -1,0 +1,68 @@
+[
+    {
+        "word": "all",
+        "stem": "all",
+        "lemma": "all",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "continuously",
+        "stem": "continu",
+        "lemma": "continuously",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "immediately",
+        "stem": "immedi",
+        "lemma": "immediately",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "only",
+        "stem": "onli",
+        "lemma": "only",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "simultaneously",
+        "stem": "simultan",
+        "lemma": "simultaneously",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "suddenly",
+        "stem": "suddenli",
+        "lemma": "suddenly",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    }
+]

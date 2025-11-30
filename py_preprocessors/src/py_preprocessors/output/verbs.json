@@ -1,0 +1,1215 @@
+[
+    {
+        "word": "aiming",
+        "stem": "aim",
+        "lemma": "aim",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "airsplitting",
+        "stem": "airsplit",
+        "lemma": "airsplitting",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "ascending",
+        "stem": "ascend",
+        "lemma": "ascend",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "attacking",
+        "stem": "attack",
+        "lemma": "attack",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": [
+                "Offensive"
+            ]
+        }
+    },
+    {
+        "word": "binding",
+        "stem": "bind",
+        "lemma": "bind",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "biting",
+        "stem": "bite",
+        "lemma": "bite",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": [
+                "Offensive"
+            ]
+        }
+    },
+    {
+        "word": "blazing",
+        "stem": "blaze",
+        "lemma": "blaze",
+        "tags": {
+            "alignment": [],
+            "element": [
+                "Fire"
+            ],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "blooming",
+        "stem": "bloom",
+        "lemma": "bloom",
+        "tags": {
+            "alignment": [],
+            "element": [
+                "Wood"
+            ],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "blowing",
+        "stem": "blow",
+        "lemma": "blow",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "bowing",
+        "stem": "bow",
+        "lemma": "bow",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "breaking",
+        "stem": "break",
+        "lemma": "break",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": [
+                "Offensive"
+            ]
+        }
+    },
+    {
+        "word": "breaking",
+        "stem": "break",
+        "lemma": "break",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": [
+                "Offensive"
+            ]
+        }
+    },
+    {
+        "word": "burning",
+        "stem": "burn",
+        "lemma": "burn",
+        "tags": {
+            "alignment": [],
+            "element": [
+                "Fire"
+            ],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "carrying",
+        "stem": "carri",
+        "lemma": "carry",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "chopping",
+        "stem": "chop",
+        "lemma": "chop",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": [
+                "Offensive"
+            ]
+        }
+    },
+    {
+        "word": "cleaving",
+        "stem": "cleav",
+        "lemma": "cleave",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": [
+                "Offensive"
+            ]
+        }
+    },
+    {
+        "word": "coiling",
+        "stem": "coil",
+        "lemma": "coil",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "commanding",
+        "stem": "command",
+        "lemma": "command",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "concealing",
+        "stem": "conceal",
+        "lemma": "conceal",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "confronting",
+        "stem": "confront",
+        "lemma": "confront",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": [
+                "Offensive"
+            ]
+        }
+    },
+    {
+        "word": "conquering",
+        "stem": "conquer",
+        "lemma": "conquer",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": [
+                "Offensive"
+            ]
+        }
+    },
+    {
+        "word": "controlling",
+        "stem": "control",
+        "lemma": "control",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "counterattacking",
+        "stem": "counterattack",
+        "lemma": "counterattack",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": [
+                "Offensive"
+            ]
+        }
+    },
+    {
+        "word": "countering",
+        "stem": "counter",
+        "lemma": "counter",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": [
+                "Defensive"
+            ]
+        }
+    },
+    {
+        "word": "covering",
+        "stem": "cover",
+        "lemma": "cover",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": [
+                "Defensive"
+            ]
+        }
+    },
+    {
+        "word": "crouching",
+        "stem": "crouch",
+        "lemma": "crouch",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "crushing",
+        "stem": "crush",
+        "lemma": "crush",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": [
+                "Offensive"
+            ]
+        }
+    },
+    {
+        "word": "cutting",
+        "stem": "cut",
+        "lemma": "cut",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": [
+                "Offensive"
+            ]
+        }
+    },
+    {
+        "word": "defending",
+        "stem": "defend",
+        "lemma": "defend",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": [
+                "Defensive"
+            ]
+        }
+    },
+    {
+        "word": "deflecting",
+        "stem": "deflect",
+        "lemma": "deflect",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": [
+                "Defensive"
+            ]
+        }
+    },
+    {
+        "word": "descending",
+        "stem": "descend",
+        "lemma": "descend",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "dispersing",
+        "stem": "dispers",
+        "lemma": "disperse",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "dodging",
+        "stem": "dodg",
+        "lemma": "dodge",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": [
+                "Evasive"
+            ]
+        }
+    },
+    {
+        "word": "draining",
+        "stem": "drain",
+        "lemma": "drain",
+        "tags": {
+            "alignment": [
+                "Demonic"
+            ],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "drifting",
+        "stem": "drift",
+        "lemma": "drift",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "emerging",
+        "stem": "emerg",
+        "lemma": "emerge",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "ending",
+        "stem": "end",
+        "lemma": "end",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "enduring",
+        "stem": "endur",
+        "lemma": "endure",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": [
+                "Defensive"
+            ]
+        }
+    },
+    {
+        "word": "ensnaring",
+        "stem": "ensnar",
+        "lemma": "ensnare",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "evading",
+        "stem": "evad",
+        "lemma": "evade",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": [
+                "Evasive"
+            ]
+        }
+    },
+    {
+        "word": "falling",
+        "stem": "fall",
+        "lemma": "fall",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "feinting",
+        "stem": "feint",
+        "lemma": "feint",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": [
+                "Evasive"
+            ]
+        }
+    },
+    {
+        "word": "fighting",
+        "stem": "fight",
+        "lemma": "fight",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": [
+                "Offensive"
+            ]
+        }
+    },
+    {
+        "word": "flaming",
+        "stem": "flame",
+        "lemma": "flame",
+        "tags": {
+            "alignment": [],
+            "element": [
+                "Fire"
+            ],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "flowing",
+        "stem": "flow",
+        "lemma": "flow",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "flying",
+        "stem": "fli",
+        "lemma": "fly",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": [
+                "Evasive"
+            ]
+        }
+    },
+    {
+        "word": "following",
+        "stem": "follow",
+        "lemma": "follow",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "freezing",
+        "stem": "freez",
+        "lemma": "freeze",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "gathering",
+        "stem": "gather",
+        "lemma": "gather",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "going",
+        "stem": "go",
+        "lemma": "go",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "grounding",
+        "stem": "ground",
+        "lemma": "ground",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "invigorating",
+        "stem": "invigor",
+        "lemma": "invigorate",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "leaping",
+        "stem": "leap",
+        "lemma": "leap",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "linking",
+        "stem": "link",
+        "lemma": "link",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "lunging",
+        "stem": "lung",
+        "lemma": "lunge",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "matching",
+        "stem": "match",
+        "lemma": "match",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "observing",
+        "stem": "observ",
+        "lemma": "observe",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "paralizing",
+        "stem": "paral",
+        "lemma": "paralizing",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "paralyzing",
+        "stem": "paralyz",
+        "lemma": "paralyze",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "piercing",
+        "stem": "pierc",
+        "lemma": "pierce",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": [
+                "Offensive"
+            ]
+        }
+    },
+    {
+        "word": "poking",
+        "stem": "poke",
+        "lemma": "poke",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": [
+                "Offensive"
+            ]
+        }
+    },
+    {
+        "word": "raining",
+        "stem": "rain",
+        "lemma": "rain",
+        "tags": {
+            "alignment": [],
+            "element": [
+                "Water"
+            ],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "reflecting",
+        "stem": "reflect",
+        "lemma": "reflect",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "resisting",
+        "stem": "resist",
+        "lemma": "resist",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": [
+                "Defensive"
+            ]
+        }
+    },
+    {
+        "word": "resonating",
+        "stem": "reson",
+        "lemma": "resonate",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "resting",
+        "stem": "rest",
+        "lemma": "rest",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "retreating",
+        "stem": "retreat",
+        "lemma": "retreat",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": [
+                "Evasive"
+            ]
+        }
+    },
+    {
+        "word": "revitalizing",
+        "stem": "revit",
+        "lemma": "revitalize",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "rises",
+        "stem": "rise",
+        "lemma": "rise",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "rising",
+        "stem": "rise",
+        "lemma": "rise",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "sacrificing",
+        "stem": "sacrif",
+        "lemma": "sacrifice",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "scorching",
+        "stem": "scorch",
+        "lemma": "scorch",
+        "tags": {
+            "alignment": [],
+            "element": [
+                "Fire"
+            ],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "searching",
+        "stem": "search",
+        "lemma": "search",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "searing",
+        "stem": "sear",
+        "lemma": "sear",
+        "tags": {
+            "alignment": [],
+            "element": [
+                "Fire",
+                "Water"
+            ],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "severing",
+        "stem": "sever",
+        "lemma": "sever",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": [
+                "Offensive"
+            ]
+        }
+    },
+    {
+        "word": "shaking",
+        "stem": "shake",
+        "lemma": "shake",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "sharpening",
+        "stem": "sharpen",
+        "lemma": "sharpen",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "shattering",
+        "stem": "shatter",
+        "lemma": "shatter",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": [
+                "Offensive"
+            ]
+        }
+    },
+    {
+        "word": "shifting",
+        "stem": "shift",
+        "lemma": "shift",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": [
+                "Evasive"
+            ]
+        }
+    },
+    {
+        "word": "sleeping",
+        "stem": "sleep",
+        "lemma": "sleep",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "slicing",
+        "stem": "slice",
+        "lemma": "slice",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": [
+                "Offensive"
+            ]
+        }
+    },
+    {
+        "word": "soaring",
+        "stem": "soar",
+        "lemma": "soar",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "soothing",
+        "stem": "sooth",
+        "lemma": "soothe",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "stabbing",
+        "stem": "stab",
+        "lemma": "stab",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": [
+                "Offensive"
+            ]
+        }
+    },
+    {
+        "word": "stealing",
+        "stem": "steal",
+        "lemma": "steal",
+        "tags": {
+            "alignment": [
+                "Demonic"
+            ],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "steeled",
+        "stem": "steel",
+        "lemma": "steel",
+        "tags": {
+            "alignment": [],
+            "element": [
+                "Metal"
+            ],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "stopping",
+        "stem": "stop",
+        "lemma": "stop",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": [
+                "Defensive"
+            ]
+        }
+    },
+    {
+        "word": "summoning",
+        "stem": "summon",
+        "lemma": "summon",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "surging",
+        "stem": "surg",
+        "lemma": "surge",
+        "tags": {
+            "alignment": [],
+            "element": [
+                "Water"
+            ],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "swaying",
+        "stem": "sway",
+        "lemma": "sway",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "swirling",
+        "stem": "swirl",
+        "lemma": "swirl",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "taking",
+        "stem": "take",
+        "lemma": "take",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "tangled",
+        "stem": "tangl",
+        "lemma": "tangle",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "tearing",
+        "stem": "tear",
+        "lemma": "tear",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": [
+                "Offensive"
+            ]
+        }
+    },
+    {
+        "word": "transforming",
+        "stem": "transform",
+        "lemma": "transform",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "traveling",
+        "stem": "travel",
+        "lemma": "travel",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "traversing",
+        "stem": "travers",
+        "lemma": "traverse",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "twisting",
+        "stem": "twist",
+        "lemma": "twist",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "unwavering",
+        "stem": "unwav",
+        "lemma": "unwavering",
+        "tags": {
+            "alignment": [],
+            "element": [
+                "Water"
+            ],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "vispering",
+        "stem": "visper",
+        "lemma": "vispering",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    },
+    {
+        "word": "walking",
+        "stem": "walk",
+        "lemma": "walk",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": [
+                "Evasive"
+            ]
+        }
+    },
+    {
+        "word": "weakening",
+        "stem": "weaken",
+        "lemma": "weaken",
+        "tags": {
+            "alignment": [],
+            "element": [],
+            "mastery": [],
+            "skill_type": []
+        }
+    }
+]
