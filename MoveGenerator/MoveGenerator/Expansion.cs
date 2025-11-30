@@ -3,7 +3,7 @@
 namespace MoveGenerator;
 
 /// <summary>
-/// Expansion result from a grammar rule
+///     Expansion result from a grammar rule
 /// </summary>
 public class Expansion
 {

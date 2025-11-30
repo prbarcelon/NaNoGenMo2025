@@ -3,7 +3,7 @@
 namespace MoveGenerator.Models;
 
 /// <summary>
-/// Tag set for alignment, element, and mastery
+///     Tag set for alignment, element, and mastery
 /// </summary>
 public class TagSet
 {

@@ -3,14 +3,14 @@
 namespace MoveGenerator;
 
 /// <summary>
-/// Grammar rule definition
+///     Grammar rule definition
 /// </summary>
 public class GrammarRule
 {
     public string Pattern { get; set; } = string.Empty;
-    
+
     /// <summary>
-    /// Extract part types from pattern placeholders like [Adj], [Noun], etc.
+    ///     Extract part types from pattern placeholders like [Adj], [Noun], etc.
     /// </summary>
     public List<string> GetParts()
     {
