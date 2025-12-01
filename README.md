@@ -2,6 +2,19 @@
 
 This is my [NaNoGenMo 2025](https://github.com/NaNoGenMo/2025) Entry. The idea was to **generate a list of fantastical martial arts moves**.
 
+<img width="612" height="792" alt="image" src="https://github.com/user-attachments/assets/b6766371-f8f7-4828-96b6-065dc32349b4" />
+
+<img width="612" height="792" alt="image" src="https://github.com/user-attachments/assets/276fab51-3d66-4178-a82d-43657f5b62fa" />
+
+<img width="612" height="792" alt="image" src="https://github.com/user-attachments/assets/f6107816-b5d7-4ccb-8fec-adfc635331f5" />
+
+<img width="612" height="792" alt="image" src="https://github.com/user-attachments/assets/bc0fc6eb-7d44-4374-85f4-67b607541f39" />
+
+<img width="612" height="792" alt="image" src="https://github.com/user-attachments/assets/9efe18a1-2443-42e8-8ed0-5be13a3a1f18" />
+
+
+*Note: Claude Code wrote the bureaucratic bit at the beginning and the moves were generated as described below.*
+
 ## Introduction
 
 The inspiration for this project comes from a couple webnovels I read. The move names were interesting and seemed to follow a pattern (e.g., `X Arts, Y Style, Z Form, Technique` or `X Technique of the Y Style`). I wanted to see if I could generate similar move names programmatically.
@@ -166,4 +179,5 @@ python sort_vocabulary.py
 This script converts all the input *.txt files in the `input/` directory into json files. The current output directory is the `<repo_root>/MoveGenerator/MoveGenerator/data/` directory.
 ```
 python build_vocabulary.py
+
 ```
